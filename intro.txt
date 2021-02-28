@@ -1,3 +1,5 @@
 hari pertama belajar pengembangan aplikasi web dan belajar git
 
 ini adalah text baru
+
+membuat file index.html
