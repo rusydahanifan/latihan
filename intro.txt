@@ -1,1 +1,3 @@
-hari pertama belajar pengembangan aplikasi web
+hari pertama belajar pengembangan aplikasi web dan belajar git
+
+ini adalah text baru
